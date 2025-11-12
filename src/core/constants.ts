@@ -35,7 +35,7 @@ export const GAME_THEMES: { [key in ThemeKeys]: GameTheme } = {
 		intensityColors: GITHUB_LIGHT
 	},
 	'github-dark': {
-		textColor: '#8b949e',
+		textColor: '#000000',
 		gridBackground: '#0d1117',
 		wallColor: '#ffffff',
 		intensityColors: GITHUB_DARK
